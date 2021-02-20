@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YaldaPoll\n"
+"POT-Creation-Date: 2021-02-20 15:02+0330\n"
+"PO-Revision-Date: 2021-02-20 15:02+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: yaldapoll.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/pollform.php:14
+msgid "Poll Form Yalda"
+msgstr "نظر سنجی"
+
+#: includes/pollform.php:17
+msgid "dear client"
+msgstr "مشتری گرامی :"
+
+#: includes/pollform.php:18
+msgid "Customer Message"
+msgstr ""
+" از آنجا که نظرات و پیشنهادات ارزنده شما در بررسی و بهبود نقاط ضعف و قوت "
+"شرکت در ارائه محصولات و خدمات بهتر و شایسته تر؛ مفید و تأثیرگزار می باشد ؛ "
+"لذا خواهشمند است باپاسخ گویی به سوالات زیر شرکت را درپیشبرد اهداف خود یاری "
+"رسانید ، پیشاپیش از حسن توجه جنابعالی سپاسگذاریم ."
+
+#: includes/pollform.php:25 includes/yldapoll_admin.php:27
+msgid "Customer Name"
+msgstr "نام مشتری"
+
+#: includes/pollform.php:30 includes/yldapoll_admin.php:28
+msgid "Phone Number"
+msgstr "تلفن همراه"
+
+#: includes/pollform.php:35
+msgid "Email"
+msgstr "پست الکترونیک"
+
+#: includes/pollform.php:40
+msgid "Agent"
+msgstr "نماینده مشتری"
+
+#: includes/pollform.php:45
+msgid "Company Name"
+msgstr "نام شرکت"
+
+#: includes/pollform.php:50
+msgid "Product Title"
+msgstr "محصول استفاده شده"
+
+#: includes/pollform.php:55
+msgid "Sorat"
+msgstr "سرعت لازم در ارائه پیشنهاد قیمت و پاسخ به درخواست مشتریان"
+
+#: includes/pollform.php:66
+msgid "Barkhord"
+msgstr "میزان رضایت از نحوه برخورد "
+
+#: includes/pollform.php:77
+msgid "Motabeghat"
+msgstr "مطابقت با مشخصات فنی مورد درخواست و امکانات برنامه "
+
+#: includes/pollform.php:88
+msgid "Motabeghat Graphic"
+msgstr "مطابقت با گرافیک مورد درخواست "
+
+#: includes/pollform.php:99
+msgid "Karaei"
+msgstr "کارایی ، عملکرد و  کیفیت سایت  "
+
+#: includes/pollform.php:110
+msgid "Poshtibani"
+msgstr "میزان رضایت از پشتیبانی "
+
+#: includes/pollform.php:121
+msgid "Zamanbandi"
+msgstr "میزان رضایت از تحویل به موقع سایت براساس قرارداد یا توافق به عمل آمده"
+
+#: includes/pollform.php:132
+msgid "Amozesh"
+msgstr "نحوه و کیفیت  آموزش شرکت  برای استفاده "
+
+#: includes/pollform.php:143
+msgid "ux"
+msgstr "میزان سهولت کاربری برنامه  "
+
+#: includes/pollform.php:154
+msgid "Ertebatat"
+msgstr "فرآیندهای ارتباطی مناسب "
+
+#: includes/pollform.php:165
+msgid "Description"
+msgstr "پیشنهادات و انتقادات"
+
+#: includes/pollform.php:172
+msgid "Send Data"
+msgstr "ارسال اطلاعات"
+
+#: includes/yldapoll_admin.php:14
+#, fuzzy
+#| msgid "Poll List"
+msgid "Polls"
+msgstr "نظر سنجی مدیریت"
+
+#: includes/yldapoll_admin.php:26
+msgid "Id"
+msgstr "شناسه"
+
+#: includes/yldapoll_admin.php:29
+msgid "View Detail"
+msgstr "نمایش جزییات"
+
+#: includes/yldapoll_admin.php:37
+msgid "View"
+msgstr "نمایش"
+
+#: yaldapoll.php:48
+msgid "Poll List"
+msgstr "نظر سنجی مدیریت"
+
+#. Plugin Name of the plugin/theme
+msgid "YaldaPoll"
+msgstr "نظر سنجی یلدا"
+
+#. Plugin URI of the plugin/theme
+msgid "https://yaldadigital.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Client Poll For Yalda"
+msgstr "نظرات مشتریان یلدا دیجیتال"
+
+#. Author of the plugin/theme
+msgid "Majid Ahmadi"
+msgstr "مجید احمدی"
+
+#. Author URI of the plugin/theme
+msgid "https://majidahmadi.ir"
+msgstr ""
